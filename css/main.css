@@ -1,0 +1,23 @@
+#main-container{
+	margin: 0;
+	padding: 0;
+}
+#navigation-list {
+	float: right;
+}
+#navbar{
+	background: #535FE1;
+	font-weight: bold;
+}
+#dropdown-list{
+	background: #535FE1;
+}
+#dropdown-list a{
+	color: white;
+	font-weight: bold;
+}
+#carousel-caption{
+	background-color: rgba(28,28,28,0.6);
+	padding-left: 2em;
+	padding-right: 2em;
+}
